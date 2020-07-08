@@ -1,19 +1,19 @@
-# NLP_Collections
+
 Collection of NLP tools, dataset, paper, competition and so on.
 
 
-## Basic Knowledge
+# Basic Knowledge
 ### Embeddings
 ### Tokenizer
 ### Named Entity Recognization
 ### Text Classification 
 
-## Amazing Projects
+# Amazing Projects
 ### 
 
-## Competition
+# Competition
 
-## Dataset
+# Dataset
 
-## Best Paper
+# Best Paper
 
